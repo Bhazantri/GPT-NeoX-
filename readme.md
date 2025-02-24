@@ -1,4 +1,4 @@
-# ⚠️ We have moved this implementation to [https://nn.labml.ai/neox/index.html](https://nn.labml.ai/neox/index.html).
+
 
 -----
 
